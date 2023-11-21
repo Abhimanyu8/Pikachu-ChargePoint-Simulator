@@ -14,7 +14,7 @@ To use this OCPP Charge Point Simulator, follow these steps:
 2. Open the `index.html` file in a web browser.
 3. Simulate and test interactions between the charge point and a central management system.
 4. Utilize the logging features to track and analyze communication details.
-5. Drink water every 30 minutes of using this software to stay properly hydrated 
+5. Drink water every 30 minutes of using this simulator to stay properly hydrated 
 
 
 ### OCPP Simulation:
