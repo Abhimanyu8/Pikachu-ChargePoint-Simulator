@@ -3,6 +3,9 @@ A very yellow OCPP Charge Point Simulator
 
 OCPP (Open Charge Point Protocol) Charge Point Simulator, allowing simulation and testing of interactions between an electric vehicle (EV) charge point and a central management system using the OCPP standard.
 
+<img width="675" alt="image" src="https://github.com/Abhimanyu8/Pikachu-ChargePoint-Simulator/assets/54982599/cbddeecf-298c-4efb-8b92-d60ec7d6637d">
+
+
 ## Usage:
 
 To use this OCPP Charge Point Simulator, follow these steps:
