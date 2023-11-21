@@ -1,0 +1,123 @@
+body {
+    background: #f3f3c6;
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+button,
+input,
+select {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-family: 'Arial Rounded MT Bold', sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+button {
+    background: #fbd000;
+    color: #fff;
+}
+
+button:hover {
+    background: #f0a000;
+}
+
+li {
+    list-style: none;
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+table,
+th,
+tr,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table {
+    margin: auto;
+    background-color: #fff;
+}
+
+form {
+    padding-top: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.center {
+    text-align: center;
+}
+
+a {
+    color: #fbd000;
+    text-decoration: none;
+}
+
+a:visited,
+a:focus {
+    color: #fbd000;
+    cursor: pointer;
+}
+
+a:hover {
+    color: #f0a000;
+}
+
+#UI {
+    margin: auto;
+    border: 2px solid #e1ad01;
+    border-radius: 10px;
+    width: 800px;
+    height: 480px;
+    overflow: hidden;
+    position: relative;
+    background-color: #fbd000;
+}
+
+#UI_form {
+    position: absolute;
+    z-index: 10;
+    left: 25px;
+    top: 25px;
+}
+
+#back {
+    position: absolute;
+    top: 420px;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: #fbd000;
+    padding: 10px;
+    color: #fff;
+}
+
+#back:hover {
+    cursor: pointer;
+    background-color: #f0a000;
+}
