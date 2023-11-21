@@ -44,6 +44,7 @@ To use this OCPP Charge Point Simulator, follow these steps:
 - This simulator is for testing and educational purposes and should not be used in production environments.
 
 Feel free to explore and modify the code to simulate different OCPP scenarios for EV charge point interactions
+
 (No pokemon were hurt during the production of this simulator)
 
 
