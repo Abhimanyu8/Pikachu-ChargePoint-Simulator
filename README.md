@@ -8,7 +8,7 @@ OCPP (Open Charge Point Protocol) Charge Point Simulator, allowing simulation an
 
 ## Usage:
 
-To use this OCPP Charge Point Simulator, follow these steps:
+To use this OCPP Charge Point Simulator, touch this : [⚡](https://abhimanyu8.github.io/Pikachu-ChargePoint-Simulator/) or follow these steps below:
 
 1. Clone or download the repository to your local machine.
 2. Open the `index.html` file in a web browser.
